@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.boggle {
+  margin-right: 100px;
+}
+
+#h1 {
+  font-size: 20px;
+}
+
+.button {
+}
+
+.dropdown {
+  margin-left: 100px;
+}
+

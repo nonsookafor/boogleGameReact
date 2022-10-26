@@ -1,0 +1,67 @@
+.general {
+	justify-content: center;
+}
+
+.border .border {
+	margin-top: 50px;
+}
+.container2 {
+  display: flex;
+	justify-content: center;
+  margin-top: 50px;
+}
+
+.here {
+	text-align: center;
+}
+
+.words {
+	text-align: center;
+  margin-top: 50px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
+
+.form {
+	margin-top: 50px;
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-bottom: 50px;
+}
+
+.innerloop {
+	justify-content: center;
+  display: flex;
+  margin-top: 50px;
+}
+
+.outerloop {
+  margin-top: 100px;
+}
+
+.space {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.val {
+	justify-content: center;
+  margin-top: 120px;
+}
+
+.boggle2 {
+  margin-right: 100px;
+}
+
+#h1 {
+  font-size: 20px;
+}
+
+.button {
+}
+
+.dropdown {
+  margin-left: 100px;
+}
+
